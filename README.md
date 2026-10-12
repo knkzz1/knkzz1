@@ -8,21 +8,15 @@
 Me chamo Kauê Sousa Miranda, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Tenho experiência na área de atendimento, no grupo RD Saúde, e hoje estou em transição de carreira, buscando oportunidade e dedicado a construir minha trajetória em desenvolvimento de software.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/lwkaue">
+    <a href="www.linkedin.com/in/kevensmNome fantasia da URL">
         <img
             alt="linkedin"
             title="Me siga no LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/lw.kaue">
-        <img
-            alt="instagram"
-            title="Me siga no Instagram"
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
     </a>
-    <a href="mailto:ksousamiranda@gmail.com">
+    <a href="mailto:kevensousaba10@gmail.com">
         <img
             alt="email"
             title="Envie um e-mail"
