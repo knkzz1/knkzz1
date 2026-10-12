@@ -5,7 +5,7 @@
 
 **`Systems Developer`**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio ou posição júnior em TI. Tenho conhecimentos em Java, Python, SQL, Git, GitHub, Power BI e Excel, além de experiência nas áreas administrativa e operacional, que fortaleceram minha organização, proatividade, responsabilidade e trabalho em equipe. Busco aplicar meus conhecimentos na prática, adquirir experiência e evoluir profissionalmente, contribuindo para os resultados da equipe.
+Me chamo Kéven Sousa Miranda, sou estudante de Análise e Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio ou posição júnior em TI. Tenho conhecimentos em Java, Python, SQL, Git, GitHub, Power BI e Excel, além de experiência nas áreas administrativa e operacional, que fortaleceram minha organização, proatividade, responsabilidade e trabalho em equipe. Busco aplicar meus conhecimentos na prática, adquirir experiência e evoluir profissionalmente, contribuindo para os resultados da equipe.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/kevensm" target="_blank">
