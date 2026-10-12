@@ -1,20 +1,19 @@
-![Header](header.png)
+
 
 
 
 
 **`Systems Developer`**
 
-Me chamo Kauê Sousa Miranda, tenho 19 anos e sou de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID). Tenho experiência na área de atendimento, no grupo RD Saúde, e hoje estou em transição de carreira, buscando oportunidade e dedicado a construir minha trajetória em desenvolvimento de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas, em busca de uma oportunidade de estágio ou posição júnior em TI. Tenho conhecimentos em Java, Python, SQL, Git, GitHub, Power BI e Excel, além de experiência nas áreas administrativa e operacional, que fortaleceram minha organização, proatividade, responsabilidade e trabalho em equipe. Busco aplicar meus conhecimentos na prática, adquirir experiência e evoluir profissionalmente, contribuindo para os resultados da equipe.
 
 <p align="left">
-    <a href="www.linkedin.com/in/kevensmNome fantasia da URL">
+    <a href="https://www.linkedin.com/in/kevensm" target="_blank">
         <img
             alt="linkedin"
             title="Me siga no LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    </a>
     </a>
     <a href="mailto:kevensousaba10@gmail.com">
         <img
@@ -23,7 +22,7 @@ Me chamo Kauê Sousa Miranda, tenho 19 anos e sou de São Paulo. Atualmente, est
             src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
-    <a href="https://wa.me/5511943470711" target="_blank">
+    <a href="https://wa.me/5511914131321" target="_blank">
         <img
             alt="whatsapp"
             title="Fale comigo no WhatsApp"
